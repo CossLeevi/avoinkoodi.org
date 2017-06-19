@@ -1,10 +1,10 @@
 {
     "projects": [       
 	{
-            "project": "Projekti",
+            "project": "Järjestelmä",
             "owner": "Omistaja",
             "code_url": "Lähdekoodi",
-            "service_url": "-",
+            "service_url": "Palvelun osoite",
             "homepage_url": "Kotisivu",
 	    "description": "Kuvaus"
 	}
