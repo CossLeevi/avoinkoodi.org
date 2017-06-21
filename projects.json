@@ -4,7 +4,7 @@
             "project": "Linux",
             "owner": "Linus Torvalds",
             "code_url": "https://github.com/torvalds/linux",
-            "service_url": "-",
+            "service_url": "",
             "homepage_url": "https://www.linux.org/",
 	    "description": "Avoimen lähdekoodin legenda",
 	}
@@ -12,7 +12,7 @@
             "project": "LTSP",
             "owner": "DisklessWorkstations",
             "code_url": "https://code.launchpad.net/ltsp",
-            "service_url": "-",
+            "service_url": "",
             "homepage_url": "https://ltsp.org",
 	    "description": "Mahdollistaa sovellusten käyttämisen etäältä päätekoneella",
 	}
@@ -24,7 +24,6 @@
             "homepage_url": "https://dreamschool.fi",
 	    "description": "Digitaalinen visio hyvästä koulusta",
 	}
-
 	{
             "project": "Pahvi",
             "owner": "Opinsys",
