@@ -7,7 +7,7 @@
             "service_url": "",
             "homepage_url": "https://www.linux.org/",
 	    "description": "Avoimen lähdekoodin legenda",
-	}
+	},
 	{
             "project": "LTSP",
             "owner": "DisklessWorkstations",
@@ -15,7 +15,7 @@
             "service_url": "",
             "homepage_url": "https://ltsp.org",
 	    "description": "Mahdollistaa sovellusten käyttämisen etäältä päätekoneella",
-	}
+	},
 	{
             "project": "unelmakoulu",
             "owner": "Kasavuoren koulu",
@@ -23,7 +23,7 @@
             "service_url": "https://id.dreamschool.fi/login/?next=/saml/SSO/",
             "homepage_url": "https://dreamschool.fi",
 	    "description": "Digitaalinen visio hyvästä koulusta",
-	}
+	},
 	{
             "project": "Pahvi",
             "owner": "Opinsys",
