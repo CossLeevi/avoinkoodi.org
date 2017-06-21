@@ -6,7 +6,7 @@
             "code_url": "https://github.com/torvalds/linux",
             "service_url": "",
             "homepage_url": "https://www.linux.org/",
-	    "description": "Avoimen lähdekoodin legenda"
+	    "description": "Avoimen lähdekoodin käyttöjärjestelmä-legenda"
 	},
 	{
             "project": "LTSP",
@@ -14,7 +14,7 @@
             "code_url": "https://code.launchpad.net/ltsp",
             "service_url": "",
             "homepage_url": "https://ltsp.org",
-	    "description": "Mahdollistaa sovellusten käyttämisen etäältä päätekoneella"
+	    "description": "Mahdollistaa Linux-sovellusten käyttämisen etäältä päätekoneella"
 	},
 	{
             "project": "unelmakoulu",
