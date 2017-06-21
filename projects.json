@@ -6,7 +6,7 @@
             "code_url": "https://github.com/torvalds/linux",
             "service_url": "-",
             "homepage_url": "https://www.linux.org/",
-	    "description": "Avoimen lähdekoodin legenda"
+	    "description": "Avoimen lähdekoodin legenda",
 	}
 	{
             "project": "LTSP",
@@ -14,7 +14,7 @@
             "code_url": "https://code.launchpad.net/ltsp",
             "service_url": "-",
             "homepage_url": "https://ltsp.org",
-	    "description": "Mahdollistaa sovellusten käyttämisen etäältä päätekoneella"
+	    "description": "Mahdollistaa sovellusten käyttämisen etäältä päätekoneella",
 	}
 	{
             "project": "unelmakoulu",
@@ -22,7 +22,7 @@
             "code_url": "Lähdekoodi",
             "service_url": "https://id.dreamschool.fi/login/?next=/saml/SSO/",
             "homepage_url": "https://dreamschool.fi",
-	    "description": "Digitaalinen visio hyvästä koulusta"
+	    "description": "Digitaalinen visio hyvästä koulusta",
 	}
 
 	{
@@ -31,7 +31,7 @@
             "code_url": "https://github.com/opinsys/pahvi",
             "service_url": "https://pahvidemo.opinsys.fi/",
             "homepage_url": "https://opinsys.fi/pahvi-virtuaalinen-kollaasi/",
-	    "description": "Virtuaalinen ilmoitustaulu ja ryhmätyöalusta"
+	    "description": "Virtuaalinen ilmoitustaulu ja ryhmätyöalusta",
 	}
     ]
 }
